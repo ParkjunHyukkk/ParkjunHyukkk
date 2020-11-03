@@ -77,9 +77,11 @@
 <img alt="자동차 회사 웹 디자인" src="https://github.com/ParkjunHyukkk/self_report/blob/main/e.PNG" width="600">
 <img alt="온라이 구매 쇼핑 몰 " src="https://github.com/ParkjunHyukkk/self_report/blob/main/f.PNG" width="600">
 
-### * cnn ativation함수 relu 구현 및 기능 확인
+### * cnn ativation함수 relu 구현 및 성능 
 
-
+* cnn ativation함수에 사용되는 relu를 python으로 사용해보고 구현 및 성능 테스트를 진행
+<img alt="relu구현 코드 및 설명 " src="https://github.com/ParkjunHyukkk/self_report/blob/main/relu.PNG" width="600">
+<img alt="relu 성능 검사" src="https://github.com/ParkjunHyukkk/self_report/blob/main/relua.PNG" width="600">
 
 
 
