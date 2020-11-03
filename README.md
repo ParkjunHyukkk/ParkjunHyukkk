@@ -72,6 +72,15 @@
 * 공모전 자료 보기: https://github.com/ParkjunHyukkk/self_report/blob/main/SW_WEEK_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
 
+### html을 이용해 만들어본 Web Form
+
+<img alt="자동차 회사 웹 디자인" src="https://github.com/ParkjunHyukkk/self_report/blob/main/e.PNG" width="600">
+<img alt="온라이 구매 쇼핑 몰 " src="https://github.com/ParkjunHyukkk/self_report/blob/main/f.PNG" width="600">
+
+### cnn ativation함수 relu 구현 및 기능 확인
+
+
+
 
 
 
