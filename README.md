@@ -15,6 +15,17 @@
 * 2020 TOPCIT 시험
 * 2020 힌림대학교 SW WEEK HBC-5 딥러닝 해커톤 참가
 
+# 사용 가능 언어
+*Python
+*jAVA
+*C
+*C++
+*R
+*JAVASCRIPT
+*HTML
+
+
+
 
 
 
