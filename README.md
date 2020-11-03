@@ -69,7 +69,7 @@
 
 
 ### * 한림대학교 SW WEEK 오픈소스 아이디어 공모전
-* 공모전 자료 보기: https://github.com/ParkjunHyukkk/self_report/blob/main/SW_WEEK_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
+ 공모전 자료 보기: https://github.com/ParkjunHyukkk/self_report/blob/main/SW_WEEK_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
 
 ### * html을 이용해 만들어본 Web Form
@@ -79,7 +79,7 @@
 
 ### * cnn ativation함수 relu 구현 및 성능 
 
-* cnn ativation함수에 사용되는 relu를 python으로 사용해보고 구현 및 성능 테스트를 진행
+ cnn ativation함수에 사용되는 relu를 python으로 사용해보고 구현 및 성능 테스트를 진행
 <img alt="relu구현 코드 및 설명 " src="https://github.com/ParkjunHyukkk/self_report/blob/main/relu.PNG" width="600">
 <img alt="relu 성능 검사" src="https://github.com/ParkjunHyukkk/self_report/blob/main/relua.PNG" width="600">
 
