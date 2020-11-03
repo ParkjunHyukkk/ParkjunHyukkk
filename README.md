@@ -77,38 +77,43 @@
 <br/>
 
 
-### NIA 사회적 약자의 삶의 질 향상을 위한지능정보 서비스 아이디어 공모전 
+### -NIA 사회적 약자의 삶의 질 향상을 위한지능정보 서비스 아이디어 공모전 
 <img alt="해당 서비스의 보고서 내용-1" src="https://github.com/ParkjunHyukkk/self_report/blob/main/A.PNG" width="600">
 
 <img alt="해당 서비스의 보고서 내용-2" src="https://github.com/ParkjunHyukkk/self_report/blob/main/B.PNG" width="600">
 
 <img alt="해당 서비스의 보고서 내용-3" src="https://github.com/ParkjunHyukkk/self_report/blob/main/C.PNG" width="600">
 
-<br/>
+
 <br/>
 
-### 한림대학교 SW WEEK 오픈소스 아이디어 공모전
+### -한림대학교 SW WEEK 오픈소스 아이디어 공모전
  공모전 자료 보기: https://github.com/ParkjunHyukkk/self_report/blob/main/SW_WEEK_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
-<br/>
+
 <br/>
 
-### html을 이용해 만들어본 Web Form
+### -html을 이용해 만들어본 Web Form
 
 <img alt="자동차 회사 웹 디자인" src="https://github.com/ParkjunHyukkk/self_report/blob/main/e.PNG" width="600">
 <img alt="온라이 구매 쇼핑 몰 " src="https://github.com/ParkjunHyukkk/self_report/blob/main/f.PNG" width="600">
 
-### cnn ativation함수 relu 구현 및 성능 
+<br/>
+
+### -cnn ativation함수 relu 구현 및 성능 
 
  cnn ativation함수에 사용되는 relu를 python으로 사용해보고 구현 및 성능 테스트를 진행
 <img alt="relu구현 코드 및 설명 " src="https://github.com/ParkjunHyukkk/self_report/blob/main/relu.PNG" width="600">
 <img alt="relu 성능 검사" src="https://github.com/ParkjunHyukkk/self_report/blob/main/relua.PNG" width="600">
 
-###  HBC-5 딥러닝 해커톤 파일 링크
+<br/>
+
+### -HBC-5 딥러닝 해커톤 파일 링크
 
 * 해당 대회가 끝나면 공개 예정
+<br/>
 
-### 뉴럴 네트워크 구조에 대한 이해와 설명
+### -뉴럴 네트워크 구조에 대한 이해와 설명
 
 <img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/과1.PNG" width="600">
 <img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/과2.PNG" width="600">
