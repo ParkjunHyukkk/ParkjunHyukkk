@@ -1,5 +1,3 @@
-# 박준혁 Git 이력서
-
 
 ## 프로필
 <img alt="깃헙 프로필 사진" src="https://github.com/ParkjunHyukkk/self_report/blob/main/self.jpg" width="200">
@@ -10,6 +8,8 @@
 * 이메일 : wnsgur5232@naver.com
 * Git_hub : https://github.com/ParkjunHyukkk
 
+<br/>
+<br/>
 
 # 참가 대회 목록 및 교육 현황
 * 2019 한림대학교 SW WEEK 오픈소스 아이디어 공모전
@@ -18,6 +18,8 @@
 * 2020 TOPCIT 시험
 * 2020 한림대학교 SW WEEK HBC-5 딥러닝 해커톤 참가
 
+<br/>
+<br/>
 
 # 사용 가능 언어
 * Python
@@ -28,17 +30,24 @@
 * JAVASCRIPT
 * HTML
 
+<br/>
+<br/>
+
 # 관심 분야
 * CNN을 이용한 이미지 분류
 * 딥러닝 기술을 이용한 금융 통계 예측
 * 머신러닝 기반 악성코드 분석
 
+<br/>
+<br/>
 
 # 2020 한림대학교 SW WEEK HBC-5 딥러닝 해커톤 
 * 현재 검증 및 대회 진행 중인 관계로 대회가 끝나면 내용 업로드 예정
 * 해당 대회는 colab을 이용한 무박 2일 대회로 진행 되었음.
 * 여러 python 라이브러리 중 쉬운 사용법과 간단한 문법, 빠른 설계가 가능한 keras를 이용해 구현하였습니다.
 
+<br/>
+<br/>
 
 # 보유 지식 및 기술
 - 자바를 이용한 Stack , BinaryTree , Heap, Graph, Prime, Kruscal 알고리즘 구현 및 이해가 가능
@@ -49,6 +58,8 @@
 - IDA를 통한 간단한 취약점 분석 가능
 - vm 가상환경을 통한 kali linux Tool 간단 사용 가능
 
+<br/>
+<br/>
 
 # 2020 자기 개발을 위한 5대 목표
 * 해커톤 1회 이상 참여하기 
@@ -57,7 +68,14 @@
 * 개인 소규모 프로젝트 진행하기 
 * 오류 발생 시, 당황하지 않고 침착히 대응하기
 
-# 구현 및 아이디어 공모전 제출 sample
+<br/>
+<br/>
+
+
+# 구현 및 아이디어 공모전 제출 
+
+<br/>
+
 
 ### NIA 사회적 약자의 삶의 질 향상을 위한지능정보 서비스 아이디어 공모전 
 <img alt="해당 서비스의 보고서 내용-1" src="https://github.com/ParkjunHyukkk/self_report/blob/main/A.PNG" width="600">
@@ -66,11 +84,14 @@
 
 <img alt="해당 서비스의 보고서 내용-3" src="https://github.com/ParkjunHyukkk/self_report/blob/main/C.PNG" width="600">
 
-
+<br/>
+<br/>
 
 ### 한림대학교 SW WEEK 오픈소스 아이디어 공모전
  공모전 자료 보기: https://github.com/ParkjunHyukkk/self_report/blob/main/SW_WEEK_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
+<br/>
+<br/>
 
 ### html을 이용해 만들어본 Web Form
 
@@ -87,10 +108,14 @@
 
 * 해당 대회가 끝나면 공개 예정
 
+###  HBC-5 딥러닝 해커톤 파일 링크
 
 
-
-
+### 
+<br/>
+<br/>
+<br/>
+<br/>
 
 # 더 보기
 - GitHub 프로필 : https://github.com/ParkjunHyukkk
