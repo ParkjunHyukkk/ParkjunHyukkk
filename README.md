@@ -1,5 +1,5 @@
 
-## 프로필
+# 프로필
 <img alt="깃헙 프로필 사진" src="https://github.com/ParkjunHyukkk/self_report/blob/main/self.jpg" width="200">
 
 * 이름 : 박준혁
