@@ -108,8 +108,11 @@
 
 * 해당 대회가 끝나면 공개 예정
 
-###  HBC-5 딥러닝 해커톤 파일 링크
+### 뉴럴 네트워크 구조에 대한 이해와 설명
 
+<img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/과1.PNG" width="600">
+<img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/과2.PNG" width="600">
+<img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/과3.PNG" width="600">
 
 ### 
 <br/>
