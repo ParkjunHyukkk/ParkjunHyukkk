@@ -120,10 +120,14 @@
 <img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/과3.PNG" width="600">
 
 ### 
+
 <br/>
 <br/>
-<br/>
-<br/>
+
+# 박준혁이라는 사람은 이런 사람입니다.
+* 대학교 1학년에 입학하고 처음 온 대학 환경에 
+
+
 
 # 더 보기
 - GitHub 프로필 : https://github.com/ParkjunHyukkk
