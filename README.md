@@ -131,7 +131,7 @@
 해당 그림은 제가 1학년 때 부터 지금까지 어떠한 어려움을 극복 
 하고자 하는 의지, 끈기가 있는 사람이라는 것을 보여주는 좋은 지표라고 생각합니다.
 
-<img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/%EC%84%B1%EC%A0%81.PNG" width="600">
+<img alt=" " src="https://github.com/ParkjunHyukkk/self_report/blob/main/%EC%84%B1%EC%A0%81.PNG" width="1200">
 
 <br/>
 <br/>
