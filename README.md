@@ -10,7 +10,11 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+<br/>
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=flag-india)
+<br/>
+<br/>
 # 프로필
 <img alt="깃헙 프로필 사진" src="https://github.com/ParkjunHyukkk/self_report/blob/main/self.jpg" width="200">
 
