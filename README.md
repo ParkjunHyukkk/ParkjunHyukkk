@@ -1,7 +1,7 @@
 
 # SKILL
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 # 프로필
 <img alt="깃헙 프로필 사진" src="https://github.com/ParkjunHyukkk/self_report/blob/main/self.jpg" width="200">
