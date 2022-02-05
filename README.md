@@ -1,5 +1,5 @@
 
-# SKILL
+# SKILL👌
 <strong>Platforms & Languages</strong>
 <br/>
 <br/>
